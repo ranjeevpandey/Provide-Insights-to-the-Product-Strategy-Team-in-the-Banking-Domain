@@ -1,0 +1,2 @@
+# Provide-Insights-to-the-Product-Strategy-Team-in-the-Banking-Domain
+Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. AtliQ Data Services came to know about this through an internal link and approached Mitron Bank with a proposal to implement this project. 
